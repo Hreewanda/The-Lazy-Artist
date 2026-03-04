@@ -1,6 +1,6 @@
 # The Lazy Artist 
 
-This repository contains my solution to the **Precog Computer Vision Stack**.
+This repository contains the execution of **Precog Computer Vision Stack**.
 
 The project investigates **shortcut learning/color-bias in neural networks** using a color-biased digit dataset and evaluates different techniques to improve model robustness and interpretability.
 
